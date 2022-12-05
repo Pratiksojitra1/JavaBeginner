@@ -1,0 +1,75 @@
+Welcome to Task 001
+
+Please enter a number: 5
+
+Select below options:
+1) Multiply by 2
+2) Divide by 2
+3) Square it
+4) Reminder if divided by 10
+5) Re-enter your number
+6) Exit
+
+Select your option: 4
+
+Ans: 5
+
+Select below options:
+1) Multiply by 2
+2) Divide by 2
+3) Square it
+4) Reminder if divided by 10
+5) Re-enter your number
+6) Exit
+
+Select your option: 3
+
+Ans: 25
+
+Select below options:
+1) Multiply by 2
+2) Divide by 2
+3) Square it
+4) Reminder if divided by 10
+5) Re-enter your number
+6) Exit
+
+Select your option: 2
+
+Ans: 2.5
+
+Select below options:
+1) Multiply by 2
+2) Divide by 2
+3) Square it
+4) Reminder if divided by 10
+5) Re-enter your number
+6) Exit
+
+Select your option: 1
+
+Ans: 4
+
+Select below options:
+1) Multiply by 2
+2) Divide by 2
+3) Square it
+4) Reminder if divided by 10
+5) Re-enter your number
+6) Exit
+
+Select your option: 5
+
+Please enter a number: 15
+
+Select below options:
+1) Multiply by 2
+2) Divide by 2
+3) Square it
+4) Reminder if divided by 10
+5) Re-enter your number
+6) Exit
+
+Select your option: 6
+
+Thank you. Have a good day!!
